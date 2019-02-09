@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.senju"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "gateway",
+        "baseName": "frontpoint",
+        "packageName": "com.senju",
+        "packageFolder": "com/senju",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Yjk2ZWRlNWI3MzdmMDBlZjI0MTQ2YzVmMDlhZjFiNjA5ODYzNWIwN2QxNTA3OWM3YTUwMzBlMjE1ZmQ5ZmMzMTljOTc5MDI4YzRkZWY4ODkwM2JiN2ZkODA4ZGNkN2Q4ZTkxMzFmZDYzMGM0OGNlMzEzZTk1ZjkxODVlZTRhMWU=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
